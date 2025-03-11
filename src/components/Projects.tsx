@@ -35,7 +35,6 @@ export default function Projects() {
               <span className="text-green-400">$</span> ls ./projects/
             </p>
           </div>
-
           <div className="grid md:grid-cols-2 gap-8">
             {projects.map((project, index) => (
               <motion.div
