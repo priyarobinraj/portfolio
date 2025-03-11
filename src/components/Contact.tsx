@@ -80,7 +80,7 @@ export default function Contact() {
                 </label>
                 <textarea
                   rows={4}
-                  className="w-full px-4 py-2 bg-gray-800/50 border border-gray-700 rounded focus:outline-none focus:border-green-500 font-mono"
+                  className="w-full px-4 py-2 bg-gray-800/50 border border-gray-700 rounded focus:outline-none focus:border-green-500 font-mono resize-none"
                   placeholder="_"
                 ></textarea>
               </div>

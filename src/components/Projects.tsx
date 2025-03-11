@@ -10,8 +10,8 @@ const projects = [
     image:
       "https://i.pinimg.com/originals/8f/01/87/8f01878f78ca29641000ba6f761e153e.jpg",
     tags: ["HTML", "CSS", "Bootstrap", "React"],
-    demoUrl: "https://journalslay.vercel.app/", // Replace with actual demo URL
-    sourceUrl: "https://github.com/username/turcon-ecommerce", // Replace with actual GitHub URL
+    demoUrl: "https://journalslay.vercel.app/",
+    sourceUrl: "https://github.com/priyarobinraj/journalslay",
   },
   {
     title: "OceanBlog Travel-Guides",
@@ -19,8 +19,8 @@ const projects = [
       "Admin management system for course creation, student tracking, and performance analytics.",
     image: "http://wallpapercave.com/wp/M0LQ3nk.jpg",
     tags: ["React", "TypeScript", "Node.js", "Tailwind"],
-    demoUrl: "https://oceanblog.vercel.app/", // Replace with actual demo URL
-    sourceUrl: "https://github.com/username/courseninn-academy", // Replace with actual GitHub URL
+    demoUrl: "https://oceanblog.vercel.app/",
+    sourceUrl: "https://github.com/priyarobinraj/oceanblog",
   },
 ];
 
