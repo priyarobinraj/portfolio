@@ -16,11 +16,31 @@ const projects = [
   {
     title: "OceanBlog Travel-Guides",
     description:
-      "Admin management system for course creation, student tracking, and performance analytics.",
+      "Designed and developed an engaging blog website dedicated to exploring the wonders of the ocean..",
     image: "http://wallpapercave.com/wp/M0LQ3nk.jpg",
     tags: ["React", "TypeScript", "Node.js", "Tailwind"],
     demoUrl: "https://oceanblog.vercel.app/",
     sourceUrl: "https://github.com/priyarobinraj/oceanblog",
+  },
+
+  {
+    title: "Book Cafe",
+    description: "A simple yet well structured webpage as a demo",
+    image:
+      "https://thesmartlocal.com/wp-content/uploads/2019/07/Book-Cafes-21-1.jpg",
+    tags: ["HTML", "CSS"],
+    demoUrl: "https://thebookcafe.vercel.app/",
+    sourceUrl: "https://github.com/priyarobinraj/thebookcafe",
+  },
+  {
+    title: "Plusgen",
+    description:
+      "Built PlusGen, a modern and user-friendly medical website focused on health services and patient care solutions.",
+    image:
+      "https://www.missouripartnership.com/wp-content/uploads/2018/01/iStock-695349930.jpg",
+    tags: ["HTML, CSS"],
+    demoUrl: "https://plusgen.vercel.app/",
+    sourceUrl: "https://github.com/priyarobinraj/plusgen",
   },
 ];
 
