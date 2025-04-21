@@ -10,7 +10,7 @@ const projects = [
     image:
       "https://img.freepik.com/free-photo/showing-cart-trolley-shopping-online-sign-graphic_53876-133967.jpg",
     tags: ["HTML", "CSS", "Bootstrap", "React", "Javascript"],
-    demoUrl: "https://e-commerce-bk8i.vercel.app/",
+    demoUrl: "https://e-commerce-zt68.vercel.app/",
     sourceUrl: "https://github.com/priyarobinraj/e-commerce",
   },
   {
@@ -22,11 +22,10 @@ const projects = [
     demoUrl: "https://oceanblog.vercel.app/",
     sourceUrl: "https://github.com/priyarobinraj/oceanblog",
   },
-
   {
     title: "JournalSlay Blog-E'commerce",
     description:
-      "A full-featured e-commerce platform with product management, with a blog setup and an aesthetically pleasing web layout.",
+      "A featured e-commerce/blog platform with product ,a blog setup and an aesthetically pleasing web layout.",
     image:
       "https://i.pinimg.com/originals/8f/01/87/8f01878f78ca29641000ba6f761e153e.jpg",
     tags: ["HTML", "CSS", "Bootstrap", "React"],
