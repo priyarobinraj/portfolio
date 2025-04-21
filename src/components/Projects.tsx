@@ -4,14 +4,14 @@ import { ExternalLink, Github, Terminal } from "lucide-react";
 
 const projects = [
   {
-    title: "JournalSlay Blog-E'commerce",
+    title: "E'commerce",
     description:
-      "A full-featured e-commerce platform with product management, cart functionality, and secure payment integration.",
+      "A full-featured e-commerce platform with product management, cart functionality, and search integration.",
     image:
-      "https://i.pinimg.com/originals/8f/01/87/8f01878f78ca29641000ba6f761e153e.jpg",
-    tags: ["HTML", "CSS", "Bootstrap", "React"],
-    demoUrl: "https://journalslay.vercel.app/",
-    sourceUrl: "https://github.com/priyarobinraj/journalslay",
+      "https://img.freepik.com/free-photo/showing-cart-trolley-shopping-online-sign-graphic_53876-133967.jpg",
+    tags: ["HTML", "CSS", "Bootstrap", "React", "Javascript"],
+    demoUrl: "https://e-commerce-bk8i.vercel.app/",
+    sourceUrl: "https://github.com/priyarobinraj/e-commerce",
   },
   {
     title: "OceanBlog Travel-Guides",
@@ -24,13 +24,14 @@ const projects = [
   },
 
   {
-    title: "Book Cafe",
-    description: "A simple yet well structured webpage as a demo",
+    title: "JournalSlay Blog-E'commerce",
+    description:
+      "A full-featured e-commerce platform with product management, with a blog setup and an aesthetically pleasing web layout.",
     image:
-      "https://thesmartlocal.com/wp-content/uploads/2019/07/Book-Cafes-21-1.jpg",
-    tags: ["HTML", "CSS"],
-    demoUrl: "https://thebookcafe.vercel.app/",
-    sourceUrl: "https://github.com/priyarobinraj/thebookcafe",
+      "https://i.pinimg.com/originals/8f/01/87/8f01878f78ca29641000ba6f761e153e.jpg",
+    tags: ["HTML", "CSS", "Bootstrap", "React"],
+    demoUrl: "https://journalslay.vercel.app/",
+    sourceUrl: "https://github.com/priyarobinraj/journalslay",
   },
   {
     title: "Plusgen",
